@@ -22,7 +22,7 @@ Financial Analyst with experience in financial modelling, investment research, a
 
 ## Skills
 
-Python | Pandas | Excel | Financial Modeling | Data Analysis | SQL | 
+Python | Pandas | Excel | Financial Modeling | Data Analysis | SQL
 
 ## Connect with Me
 
