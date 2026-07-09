@@ -20,6 +20,12 @@ Financial Analyst with experience in financial modelling, investment research, a
 - Identified customer purchasing behaviour and revenue drivers.
 - Developed visualizations and business intelligence reports.
 
+### [Supply Chain Analytics](https://github.com/KevinSun-777/Supply_Chain_Analysis)
+
+- Built an interactive supply chain dashboard using SQL and Power BI.
+- Analyzed supplier performance, inventory risks, logistics efficiency, and estimated profitability metrics.
+- Developed business insights and operational recommendations to support data-driven supply chain decision-making.
+
 ## Skills
 
 Python | Pandas | Excel | Financial Modeling | Data Analysis | SQL
