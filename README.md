@@ -26,6 +26,13 @@ Financial Analyst with experience in financial modelling, investment research, a
 - Analyzed supplier performance, inventory risks, logistics efficiency, and estimated profitability metrics.
 - Developed business insights and operational recommendations to support data-driven supply chain decision-making.
 
+### [Customer Churn Analysis](https://github.com/KevinSun-777/Telco_Customer_Churn_Analysis)
+
+- Built an interactive customer churn dashboard using SQL, Power BI, and DAX measures.
+- Analyzed customer retention patterns, service usage behaviour, and revenue impact across multiple customer segments.
+- Developed customer lifecycle segmentation models based on tenure and demographic characteristics.
+- Identified major churn drivers, including contract type, support services, and customer tenure, providing actionable retention recommendations.
+
 ## Skills
 
 Python | Pandas | Excel | Financial Modeling | Data Analysis | SQL
