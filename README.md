@@ -33,9 +33,16 @@ Financial Analyst with experience in financial modelling, investment research, a
 - Developed customer lifecycle segmentation models based on tenure and demographic characteristics.
 - Identified major churn drivers, including contract type, support services, and customer tenure, providing actionable retention recommendations.
 
+### [Apple DCF Valuation Model](https://github.com/KevinSun-777/APPLE_Inc_DCF)
+
+- Built a full Discounted Cash Flow (DCF) valuation model for Apple Inc. using publicly available SEC 10-K filings and Excel financial modelling techniques.
+- Forecasted revenue, EBIT, NOPAT, free cash flow, and terminal value over a five-year projection period (FY2026E–FY2030E).
+- Performed enterprise value, equity value, and intrinsic share price analysis using an FCFF valuation framework.
+- Conducted WACC and terminal growth sensitivity analysis to evaluate valuation scenarios and downside risk.
+
 ## Skills
 
-Python | Power BI | Excel | Financial Modeling | Data Analysis | SQL
+Python | SQL | Power BI | Advanced Excel | Financial Modeling | DCF Valuation | Financial Statement Analysis | Data Analysis
 
 ## Connect with Me
 
