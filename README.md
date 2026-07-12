@@ -40,6 +40,12 @@ Financial Analyst with experience in financial modelling, investment research, a
 - Performed enterprise value, equity value, and intrinsic share price analysis using an FCFF valuation framework.
 - Conducted WACC and terminal growth sensitivity analysis to evaluate valuation scenarios and downside risk.
 
+### [Budget-vs-Actual-Dashboard](https://github.com/KevinSun-777/FP-A-Budget-vs-Actual-Dashboard)
+- Built a driver-based FP&A dashboard using Excel and Power BI for a simulated SaaS business.
+- Conducted Budget vs Actual variance analysis across revenue, operating expenses, and headcount.
+- Analyzed departmental spending drivers through headcount and cost-per-employee metrics.
+- Evaluated SaaS operating KPIs, including ARR Growth, EBITDA Margin, Gross Margin, and Churn Rate.
+
 ## Skills
 
 Python | SQL | Power BI | Advanced Excel | Financial Modeling | DCF Valuation | Financial Statement Analysis | Data Analysis
