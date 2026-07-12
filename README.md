@@ -48,7 +48,7 @@ Financial Analyst with experience in financial modelling, investment research, a
 
 ## Skills
 
-Python | SQL | Power BI | Advanced Excel | Financial Modeling | DCF Valuation | Financial Statement Analysis | Data Analysis
+Python | SQL | Power BI | Advanced Excel | Financial Modeling | DCF Valuation | Financial Statement Analysis | Data Analysis | Budgeting & Forecasting | Variance Analysis
 
 ## Connect with Me
 
