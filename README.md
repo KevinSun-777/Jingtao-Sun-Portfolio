@@ -46,6 +46,12 @@ Financial Analyst with experience in financial modelling, investment research, a
 - Analyzed departmental spending drivers through headcount and cost-per-employee metrics.
 - Evaluated SaaS operating KPIs, including ARR Growth, EBITDA Margin, Gross Margin, and Churn Rate.
 
+### [Fermi DCF Valuation Model](https://github.com/KevinSun-777/Fermi-Inc.-DCF-Valuation)
+- Built a comprehensive Discounted Cash Flow (DCF) valuation model for Fermi Inc. using publicly available SEC 10-K filings and management guidance.
+- Developed a driver-based financial forecast by projecting online capacity, utilization rates, lease pricing, operating margins, capital expenditures, and free cash flow over a ten-year forecast period (FY2026E–FY2035E).
+- Estimated enterprise value, equity value, and intrinsic value per share using a FCFF valuation framework, including WACC estimation and Gordon Growth terminal value methodology.
+- Performed WACC and terminal growth sensitivity analysis to evaluate valuation outcomes under multiple market and operating scenarios.
+
 ## Skills
 
 Python | SQL | Power BI | Advanced Excel | Financial Modeling | DCF Valuation | Financial Statement Analysis | Data Analysis | Budgeting & Forecasting | Variance Analysis
